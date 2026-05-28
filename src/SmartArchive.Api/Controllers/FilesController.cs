@@ -10,11 +10,13 @@ public class FilesController : ControllerBase
 {
     private readonly IStorageService _storage;
     private readonly IAiProcessor _ai;
+    private readonly IFileRepository _repo;
 
-    public FilesController(IStorageService storage, IAiProcessor ai)
+    public FilesController(IStorageService storage, IAiProcessor ai, IFileRepository repo)
     {
         _storage = storage;
         _ai = ai;
+        _repo = repo;
     }
 
     [HttpPost("upload")]
@@ -25,7 +27,15 @@ public class FilesController : ControllerBase
         await using var stream = file.OpenReadStream();
         var stored = await _storage.SaveFileAsync(stream, file.FileName, file.ContentType ?? "application/octet-stream");
         var enriched = await _ai.EnrichMetadataAsync(stored);
+        await _repo.AddAsync(enriched);
         return CreatedAtAction(nameof(Download), new { id = enriched.Id }, enriched);
+    }
+
+    [HttpGet]
+    public async Task<IActionResult> List()
+    {
+        var files = await _repo.ListAsync();
+        return Ok(files);
     }
 
     [HttpGet("{id:guid}")]

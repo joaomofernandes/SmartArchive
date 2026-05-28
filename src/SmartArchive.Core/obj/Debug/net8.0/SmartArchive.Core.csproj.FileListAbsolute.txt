@@ -9,3 +9,4 @@ C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\n
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\refint\SmartArchive.Core.dll
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\SmartArchive.Core.pdb
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\ref\SmartArchive.Core.dll
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\SmartArchive.Core.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Infrastructure\o
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Infrastructure\obj\Debug\net8.0\SmartArchive.Infrastructure.pdb
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Infrastructure\obj\Debug\net8.0\SmartArchive.Infrastructure.genruntimeconfig.cache
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Infrastructure\obj\Debug\net8.0\ref\SmartArchive.Infrastructure.dll
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Infrastructure\obj\Debug\net8.0\SmartArchive.Infrastructure.sourcelink.json

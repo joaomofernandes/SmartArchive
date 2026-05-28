@@ -37,6 +37,18 @@
         }
       }
     },
+    "/api/Files": {
+      "get": {
+        "tags": [
+          "Files"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Files/{id}": {
       "get": {
         "tags": [
@@ -59,12 +71,27 @@
           }
         }
       }
+    },
+    "/": {
+      "get": {
+        "tags": [
+          "SmartArchive.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": { },
   "tags": [
     {
       "name": "Files"
+    },
+    {
+      "name": "SmartArchive.Api"
     }
   ]
 }

@@ -331,3 +331,4 @@ C:\Users\jmfernandes\source\repos\SmartArchive\tests\SmartArchive.Tests\obj\Debu
 C:\Users\jmfernandes\source\repos\SmartArchive\tests\SmartArchive.Tests\obj\Debug\net8.0\SmartArchive.Tests.pdb
 C:\Users\jmfernandes\source\repos\SmartArchive\tests\SmartArchive.Tests\obj\Debug\net8.0\SmartArchive.Tests.genruntimeconfig.cache
 C:\Users\jmfernandes\source\repos\SmartArchive\tests\SmartArchive.Tests\obj\Debug\net8.0\ref\SmartArchive.Tests.dll
+C:\Users\jmfernandes\source\repos\SmartArchive\tests\SmartArchive.Tests\obj\Debug\net8.0\SmartArchive.Tests.sourcelink.json

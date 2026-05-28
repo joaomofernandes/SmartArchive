@@ -68,3 +68,4 @@ C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Api\obj\Debug\ne
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Api\obj\Debug\net8.0\SmartArchive.Api.pdb
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Api\obj\Debug\net8.0\SmartArchive.Api.genruntimeconfig.cache
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Api\obj\Debug\net8.0\ref\SmartArchive.Api.dll
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Api\obj\Debug\net8.0\SmartArchive.Api.sourcelink.json

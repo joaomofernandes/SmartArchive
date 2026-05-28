@@ -13,3 +13,4 @@ C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Application\obj\
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Application\obj\Debug\net8.0\refint\SmartArchive.Application.dll
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Application\obj\Debug\net8.0\SmartArchive.Application.pdb
 C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Application\obj\Debug\net8.0\ref\SmartArchive.Application.dll
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Application\obj\Debug\net8.0\SmartArchive.Application.sourcelink.json

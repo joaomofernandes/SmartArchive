@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartArchive.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bdf48b019f07f1a5c20e620ed08ae5a82a0d387")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartArchive.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartArchive.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
