@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+	<TargetFramework>net8.0</TargetFramework>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+	<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0" />
+	<PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.7" />
+  </ItemGroup>
+  <ItemGroup>
+	<ProjectReference Include="..\SmartArchive.Application\SmartArchive.Application.csproj" />
+	<ProjectReference Include="..\SmartArchive.Core\SmartArchive.Core.csproj" />
+	<ProjectReference Include="..\SmartArchive.Infrastructure\SmartArchive.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

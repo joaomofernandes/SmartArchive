@@ -1,0 +1,11 @@
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\bin\Debug\net8.0\SmartArchive.Core.deps.json
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\bin\Debug\net8.0\SmartArchive.Core.dll
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\bin\Debug\net8.0\SmartArchive.Core.pdb
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\SmartArchive.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\SmartArchive.Core.AssemblyInfoInputs.cache
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\SmartArchive.Core.AssemblyInfo.cs
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\SmartArchive.Core.csproj.CoreCompileInputs.cache
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\SmartArchive.Core.dll
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\refint\SmartArchive.Core.dll
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\SmartArchive.Core.pdb
+C:\Users\jmfernandes\source\repos\SmartArchive\src\SmartArchive.Core\obj\Debug\net8.0\ref\SmartArchive.Core.dll
